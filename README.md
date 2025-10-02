@@ -3,7 +3,7 @@
 
 1️⃣拨球：
 
-![](https://cdn.nlark.com/yuque/0/2025/gif/50405538/1759396037190-9b1d83f7-3d2d-4329-8459-a64628d03953.gif)
+![]([https://cdn.nlark.com/yuque/0/2025/gif/50405538/1759396037190-9b1d83f7-3d2d-4329-8459-a64628d03953.gif](https://github.com/nanjin1/Automatic-sorting-robot/blob/main/GIF/bo.gif))
 
 2️⃣倒球：
 
